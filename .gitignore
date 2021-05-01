@@ -1,2 +1,5 @@
 .vagrant/
 .box
+.DS_Store
+.idea/
+venv/
